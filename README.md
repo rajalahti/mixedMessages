@@ -15,7 +15,7 @@ Run with command "npm start"
 * "My million dollar idea combines weapons-grade plutonium with a broken Xbox®."
 * "Ideal first date: A cowboy who is half boy half cow."
 * Calm down dear it's only A leaky tampon emergency.
-' What did I used to sell to people door-to-door? Family fun fecal face painting.
+* What did I used to sell to people door-to-door? Family fun fecal face painting.
 
 ## Thanks to
 
