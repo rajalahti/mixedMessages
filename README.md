@@ -1,4 +1,4 @@
-# mixedMessages
+# Mixed Messages
 
 A training project on CodeCademy, an automatic Cards agains Humanity -generator.
 
