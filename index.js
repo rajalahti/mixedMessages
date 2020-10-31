@@ -11,7 +11,7 @@ const formatOption = (index, chars, option) => {
     if (index >=2) {
         const previousCharacter = chars[index - 2];
         const nextCharacter = chars[index + 1];
-        if(previousCharacter !== '.' && previousCharacter !== '?') {
+        if(previousCharacter !== '.' && previousCharacter !== '?' && previousCharacter !== ':') {
             option = option.charAt(0).toLowerCase() + option.slice(1);
         } else {
             option = option.charAt(0).toUpperCase() + option.slice(1);
